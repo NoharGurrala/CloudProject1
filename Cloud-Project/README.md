@@ -13,8 +13,7 @@
 
  # About
  
-Cloud Project about is a web application that used for manage (uploading, deletion and viewing details) of the images AWS services and also user registration and authentication to the web site. It also gets regular updates regarding the file activity using AWS SNS feature. It also feature like admin control of user.
-
+Cloud Project about is a web application that used for managing (uploading, deletion and viewing details) of the images AWS services and user registration and authentication to the web site. It also gets regular updates regarding the file activity using AWS SNS feature. It also features like admin control of user.
 
 
  # Tools and Technologies used:
