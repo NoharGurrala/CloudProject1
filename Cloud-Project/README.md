@@ -17,7 +17,8 @@ Cloud Project about is a web application that used for manage (uploading, deleti
 
 
 
- ## Tools and Technologies used:
+ # Tools and Technologies used:
+  
   * Frontend: HTML, Bootstrap, CSS and JavaScript
   * Backend: Python Django framework
   * AWS Components:EC2, Amazon S3, Amazon CloudFront, Amazon Route 53, AWS certificate manager, Amazon SNS, Amazon RDS(PostgreSQL), Lambda, ELB, CloudWatch
